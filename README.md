@@ -1,12 +1,32 @@
-# React + Vite
+# 🚀 Web Development Challenge Hub  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I created this page to build a habit of practicing more **web development challenges**.  
+Currently, I'm storing these websites in a simple array without a database for simplicity.  
+I can always add one later if I need more flexibility in this application.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 List of Challenge Websites  
 
-## Expanding the ESLint configuration
+| #  | Website Name         | Link |
+|----|----------------------|------|
+| 1  | **ClientsideDev**    | [Explore](https://www.clientside.dev/explore/projects) |
+| 2  | **FrontEnd Churn**   | [Try Challenges](https://www.algochurn.com/frontend) |
+| 3  | **BigFrontend**      | [Visit](https://bigfrontend.dev/) |
+| 4  | **50 Coding Puzzles** | [Solve Puzzles](https://choubey.gitbook.io/react-coding-puzzles/introduction) |
+| 5  | **Reactterry**       | [React Challenges](https://www.reacterry.com/portal/challenges?source=sign-up) |
+| 6  | **Devtools**         | [React Questions](https://devtools.tech/dashboard/questions?language=react) |
+| 7  | **GreatFrontend**    | [Explore](https://www.greatfrontend.com/) |
+| 8  | **Github See**       | [Frontend Expert](https://github.com/matcharr/frontendExpert-interview-practice) |
+| 9  | **Dapelican**        | [JS Exercises](https://www.dapelican.dev/js-exercises) |
+| 10 | **React Challenges** | [Live Challenges](https://reactchallenges.live/) |
+| 11 | **CodeDamn**         | [Dashboard](https://codedamn.com/dashboard) |
+| 12 | **FrontendPro**      | [Coding Challenges](https://www.frontendpro.dev/frontend-coding-challenges) |
+| 13 | **Frontend Hire**    | [Interview Questions](https://frontendhire.com/questions/) |
+| 14 | **Edabit**           | [JS Challenges](https://edabit.com/challenges/javascript) |
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🎯 Goal  
+From now on, I aim to be **consistent** in solving problems based on **React and frontend development**.  
+Let's keep pushing forward! 🚀  
